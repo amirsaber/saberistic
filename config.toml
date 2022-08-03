@@ -1,0 +1,15 @@
+baseURL = 'https://saberistic.com/'
+languageCode = 'en-us'
+title = 'Saberistic'
+theme = "PaperMod"
+
+[params]
+[params.profileMode]
+enabled = true
+title = 'Sharper than any double-edged sword!'
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/saberistic"
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/amirsaber"
