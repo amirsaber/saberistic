@@ -7,9 +7,13 @@ theme = "PaperMod"
 [params.profileMode]
 enabled = true
 title = 'Sharper than any double-edged sword!'
+[[params.profileMode.buttons]]
+name = 'Contact Us'
+url = 'https://formless.ai/c/aL85bT17w7cH'
 [[params.socialIcons]]
 name = "twitter"
 url = "https://twitter.com/saberistic"
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/saberistic"
+ 
