@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on **tec
 ## 💼 Previous Work
 - **Brave**: Contributed to the development of **Brave Ads**, a unique advertising platform integrated into the Brave browser.
 - **Eternis**: Worked on **scalability** and **attested attribution** solutions, enhancing agent-based workflows and transactions.
-- **Baxus**: Played a key role in the development and deployment of solutions for real-time data processing and analytics.
+- **Baxus**: Created a **scalable solution to bridge the traditional** whiskey and wine market to **blockchain and Web3**, enabling the industry to embrace decentralized technologies.
 
 ## 🛠️ Technologies & Tools I Use
 - **Programming Languages**: 5+ years experience with **Rust**, **Go**, **Solidity**, and **JavaScript/TypeScript**. I'm proficient in full-stack development and enjoy exploring new languages to enhance my skills.
